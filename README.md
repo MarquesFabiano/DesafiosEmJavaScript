@@ -1,0 +1,1 @@
+Aqui postarei a resolução de alguns desafios de Javascript, feitas por mim.
